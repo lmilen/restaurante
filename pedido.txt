@@ -1,0 +1,10 @@
+Milena Suarez;;
+Milena Suarez;12345666;Carrera 22
+Juan Suarez Perez;12345666;Carrera 22
+Juanita;3105273727;cra 42 Nro. 18a-79 T1 apto 102 - Valle de Atriz
+Juanita;3105273727;cra 42 Nro. 18a-79 T1 apto 102 - Valle de Atriz
+;;
+juan;3145654;centenario
+jhom;314567;mistares
+maria;89766;centenario
+maria;89766;centenario
